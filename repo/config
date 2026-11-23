@@ -1,0 +1,7 @@
+[core]
+repo_version=1
+mode=archive-z2
+
+[flatpak]
+title=Chilpa
+default-branch=stable
